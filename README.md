@@ -1,3 +1,19 @@
+<a href="http://vegable.org/">
+    <img src="https://vegable.squarespace.com/s/logo-red-black.svg" alt="Vegable logo"
+         title="Vegable-pi - Bootstrap-Node-Express-Redis OpenSprinklerPi Stack" align="right" />
+</a>
+
+# Introduction
+
+A **_work-in-progress_** React port of the Vegable-pi Bootstrap UI
+
+### Note
+
+PLEASE REFER TO THE <a href="https://github.com/rodneygagnon/Vegable-pi/wiki">WIKI</A> FOR ALL VEGABLE-PI HARDWARE/SOFTWARE NOTES AND INSTALLATION INSTRUCTIONS.
+
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
